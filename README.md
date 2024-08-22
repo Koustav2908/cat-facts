@@ -8,7 +8,6 @@
 ## Technologies
 
 -HTML
--CSS
 -JavaScript
 
 ## Installation
